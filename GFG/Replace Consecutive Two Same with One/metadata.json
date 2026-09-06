@@ -1,0 +1,19 @@
+{
+  "submissionTimestamp": "2026-09-06T20:29:58.353Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Expected Complexities",
+    "Topic Tags",
+    "Strings",
+    "Related Interview Experiences",
+    "Related Articles",
+    "Remove Consecutive Duplicates String"
+  ],
+  "platform": "GeeksforGeeks",
+  "language": "class Solution { public: string removeDuplicates(string& s) { // code here. stack<char> stk; string res=\"\"; for(int i=0; i<s.length(); i++){ if(!stk.empty() && stk.top() == s[i]){ continue; } stk.push(s[i]); } while(!stk.empty()){ res+=stk.top(); stk.pop(); } reverse(res.begin(), res.end()); return res; } };",
+  "problemTitle": "Replace Consecutive Two Same with One",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/consecutive-elements2306/1",
+  "submissionId": "6hybpq"
+}
