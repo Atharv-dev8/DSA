@@ -1,0 +1,39 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Replace Consecutive Two Same with One
+ * URL: https://www.geeksforgeeks.org/problems/consecutive-elements2306/1
+ * Language: class Solution { public: string removeDuplicates(string& s) { // code here. stack<char> stk; string res=""; for(int i=0; i<s.length(); i++){ if(!stk.empty() && stk.top() == s[i]){ continue; } stk.push(s[i]); } while(!stk.empty()){ res+=stk.top(); stk.pop(); } reverse(res.begin(), res.end()); return res; } };
+ * Difficulty: Unknown
+ * Topics: Expected Complexities, Topic Tags, Strings, Related Interview Experiences, Related Articles, Remove Consecutive Duplicates String
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-06T20:29:58.353Z
+ */
+
+class Solution {
+    public String removeDuplicates(String s) {
+        //in this question we use two pointer approach 
+               //first we create two pointer then first convert string into array of string
+              // we do iandj pointer at same index then apply condition if value at i and valuej not equal then do i++
+               //and store value of j in i
+               //after that j++ we alway do j++ after this condition   
+               //to return string we create new modified string in whichj duplicate element are removed
+               int i=0;
+               int j=0;
+
+               char[] ch = s.toCharArray();
+               while (j<ch.length) 
+               {
+               if (ch[i] != ch[j])
+                   {   
+                       i++;
+                       ch[i] = ch[j];
+                   }
+                   j++;
+               }
+               return new String(ch, 0, i + 1);        //arr    → use this character array
+                                                       // 0     → start from index 0
+                                                       //i + 1  → take this many characters
+        
+    }
+}
