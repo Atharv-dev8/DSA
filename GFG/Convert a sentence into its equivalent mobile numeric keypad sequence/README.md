@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence0547/1
-- Synced: 2026-09-06T20:31:36.135Z
+- Synced: 2026-09-06T20:32:31.272Z
 
 ## Problem Description
 
