@@ -1,13 +1,13 @@
 # Chocolate Distribution Problem
 
 - Platform: GeeksforGeeks
-- Language: Java (21)
+- Language: class Solution { public: int findMinDiff(vector<int>& a, int m) { if (m == 0 || a.size() < m) return 0; sort(a.begin(), a.end()); int minDiff = INT_MAX; for (int i = 0; i + m - 1 < a.size(); ++i) { int diff = a[i + m - 1] - a[i]; minDiff = min(minDiff, diff); } return minDiff; } };
 - Difficulty: Unknown
 - Topics: Expected Complexities, Company Tags Flipkart, Company Tags, Flipkart, Topic Tags, Sorting, Related Interview Experiences, Flipkart Interview Experience Set 24
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1
-- Synced: 2026-09-06T20:04:50.703Z
+- Synced: 2026-09-06T20:05:50.136Z
 
 ## Problem Description
 
@@ -15,4 +15,4 @@ Given an array arr[] of positive integers, where each value represents the numbe
 
 ## Explanation
 
-This solution was accepted on GeeksforGeeks using Java (21). The detected topics are Expected Complexities, Company Tags Flipkart, Company Tags, Flipkart, Topic Tags, Sorting, Related Interview Experiences, Flipkart Interview Experience Set 24. Review the synced source file for the implementation details.
+This solution was accepted on GeeksforGeeks using class Solution { public: int findMinDiff(vector<int>& a, int m) { if (m == 0 || a.size() < m) return 0; sort(a.begin(), a.end()); int minDiff = INT_MAX; for (int i = 0; i + m - 1 < a.size(); ++i) { int diff = a[i + m - 1] - a[i]; minDiff = min(minDiff, diff); } return minDiff; } };. The detected topics are Expected Complexities, Company Tags Flipkart, Company Tags, Flipkart, Topic Tags, Sorting, Related Interview Experiences, Flipkart Interview Experience Set 24. Review the synced source file for the implementation details.
