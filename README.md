@@ -10,8 +10,8 @@
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
 | **🎯 Apna College Sheet** | `10` | `375` | `░░░░░░░░░░░░░░░░░░` **2.7%** |
-| **🌟 Outside Sheet Problems** | `11` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `21` | `-` | **All Platforms** |
+| **🌟 Outside Sheet Problems** | `12` | `-` | `██████████████████` **Tracked** |
+| **🔥 Total Solved in Repo** | `22` | `-` | **All Platforms** |
 
 ---
 
@@ -39,9 +39,9 @@
 ---
 
 <details>
-<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (11 Extra Solved)</h2></summary>
+<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (12 Extra Solved)</h2></summary>
 
-> Additional `11` problems solved on LeetCode / GFG outside the Apna College sheet.
+> Additional `12` problems solved on LeetCode / GFG outside the Apna College sheet.
 
 | # | Problem | Platform | Difficulty | Solution |
 | :---: | :--- | :---: | :---: | :---: |
@@ -56,6 +56,7 @@
 | 9 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/643-maximum-average-subarray-i/maximum-average-subarray-i.java) |
 | 10 | [Plus One](https://leetcode.com/problems/plus-one/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/66-plus-one/plus-one.java) |
 | 11 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/88-merge-sorted-array/merge-sorted-array.java) |
+| 12 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/977-distinct-subsequences-ii/distinct-subsequences-ii.java) |
 
 </details>
 
