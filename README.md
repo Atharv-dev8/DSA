@@ -9,9 +9,9 @@
 
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
-| **🎯 Apna College Sheet** | `9` | `375` | `░░░░░░░░░░░░░░░░░░` **2.4%** |
+| **🎯 Apna College Sheet** | `10` | `375` | `░░░░░░░░░░░░░░░░░░` **2.7%** |
 | **🌟 Outside Sheet Problems** | `11` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `20` | `-` | **All Platforms** |
+| **🔥 Total Solved in Repo** | `21` | `-` | **All Platforms** |
 
 ---
 
@@ -19,7 +19,7 @@
 
 | Topic | Solved | Total | Progress | Link |
 | :--- | :---: | :---: | :--- | :---: |
-| **Arrays** | `4` | `26` | `██░░░░░░░░░░░░░` 15.4% | [View](#arrays) |
+| **Arrays** | `5` | `26` | `███░░░░░░░░░░░░` 19.2% | [View](#arrays) |
 | **Strings** | `4` | `22` | `███░░░░░░░░░░░░` 18.2% | [View](#strings) |
 | **2D Arrays** | `0` | `10` | `░░░░░░░░░░░░░░░` 0.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `0` | `23` | `░░░░░░░░░░░░░░░` 0.0% | [View](#searching-sorting) |
@@ -64,7 +64,7 @@
 ## 📚 Apna College Sheet Questions by Topic
 
 <details>
-<summary><h3 style="display:inline" id="arrays">📂 Arrays &nbsp;—&nbsp; 4/26 Solved (15.4%)</h3></summary>
+<summary><h3 style="display:inline" id="arrays">📂 Arrays &nbsp;—&nbsp; 5/26 Solved (19.2%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -72,7 +72,7 @@
 | ✅ | 2 | [Reverse the Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) | Infosys Moonfrog Labs | - | [GFG](Geeks%20For%20Geeks/Reverse%20Array/solution.java) |
 | ⬜ | 3 | [Maximum-Subarray](https://leetcode.com/problems/maximum-subarray/) | Microsoft + Facebook Interview Qs | use Kadane's Algorithm | - |
 | ⬜ | 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Amazon Interview Qs | - | - |
-| ⬜ | 5 | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/) | Amazon Interview Qs | - | - |
+| ✅ | 5 | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/) | Amazon Interview Qs | - | [GFG](Geeks%20For%20Geeks/Chocolate%20Distribution%20Problem/solution.java) |
 | ⬜ | 6 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Microsoft Google Adobe Amazon D-E-Shaw Flipkart Hike Intuit MakeMyTrip Paytm | - | - |
 | ✅ | 7 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Uber + Goldman Sachs + Adobe Interview Qs | - | [LeetCode](Leetcode/31-next-permutation/next-permutation.java) |
 | ⬜ | 8 | [Best time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Amazon D-E-Shaw Directi Flipkart Goldman Sachs Intuit MakeMyTrip Microsoft Ola Cabs Oracle Paytm Pubmatic Quikr Salesforce Sapient Swiggy Walmart Media.net Google | - | - |
