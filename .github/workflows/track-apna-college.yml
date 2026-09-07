@@ -1,0 +1,46 @@
+name: Update Apna College 375 Tracker
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'Leetcode/**'
+      - 'leetcode/**'
+      - 'Geeks For Geeks/**'
+      - 'GFG/**'
+      - '.github/scripts/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-tracker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Tracker Update Script
+        run: |
+          python3 .github/scripts/update_tracker.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update Apna College 375 tracker [skip ci]"
+            git push origin main
+          fi
