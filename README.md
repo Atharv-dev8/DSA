@@ -9,9 +9,9 @@
 
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
-| **🎯 Apna College Sheet** | `10` | `375` | `░░░░░░░░░░░░░░░░░░` **2.7%** |
+| **🎯 Apna College Sheet** | `11` | `375` | `█░░░░░░░░░░░░░░░░░` **2.9%** |
 | **🌟 Outside Sheet Problems** | `13` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `23` | `-` | **All Platforms** |
+| **🔥 Total Solved in Repo** | `24` | `-` | **All Platforms** |
 
 ---
 
@@ -19,7 +19,7 @@
 
 | Topic | Solved | Total | Progress | Link |
 | :--- | :---: | :---: | :--- | :---: |
-| **Arrays** | `5` | `26` | `███░░░░░░░░░░░░` 19.2% | [View](#arrays) |
+| **Arrays** | `6` | `26` | `███░░░░░░░░░░░░` 23.1% | [View](#arrays) |
 | **Strings** | `4` | `22` | `███░░░░░░░░░░░░` 18.2% | [View](#strings) |
 | **2D Arrays** | `0` | `10` | `░░░░░░░░░░░░░░░` 0.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `0` | `23` | `░░░░░░░░░░░░░░░` 0.0% | [View](#searching-sorting) |
@@ -66,11 +66,11 @@
 ## 📚 Apna College Sheet Questions by Topic
 
 <details>
-<summary><h3 style="display:inline" id="arrays">📂 Arrays &nbsp;—&nbsp; 5/26 Solved (19.2%)</h3></summary>
+<summary><h3 style="display:inline" id="arrays">📂 Arrays &nbsp;—&nbsp; 6/26 Solved (23.1%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| ⬜ | 1 | [Maximum and Minimum Element in an Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) | ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe | - | - |
+| ✅ | 1 | [Maximum and Minimum Element in an Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) | ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe | - | [GFG](Geeks%20For%20Geeks/Min%20and%20Max%20in%20Array/solution.java) |
 | ✅ | 2 | [Reverse the Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) | Infosys Moonfrog Labs | - | [GFG](Geeks%20For%20Geeks/Reverse%20Array/solution.java) |
 | ⬜ | 3 | [Maximum-Subarray](https://leetcode.com/problems/maximum-subarray/) | Microsoft + Facebook Interview Qs | use Kadane's Algorithm | - |
 | ⬜ | 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Amazon Interview Qs | - | - |
