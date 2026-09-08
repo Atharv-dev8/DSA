@@ -10,8 +10,8 @@
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
 | **🎯 Apna College Sheet** | `10` | `375` | `░░░░░░░░░░░░░░░░░░` **2.7%** |
-| **🌟 Outside Sheet Problems** | `12` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `22` | `-` | **All Platforms** |
+| **🌟 Outside Sheet Problems** | `13` | `-` | `██████████████████` **Tracked** |
+| **🔥 Total Solved in Repo** | `23` | `-` | **All Platforms** |
 
 ---
 
@@ -39,9 +39,9 @@
 ---
 
 <details>
-<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (12 Extra Solved)</h2></summary>
+<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (13 Extra Solved)</h2></summary>
 
-> Additional `12` problems solved on LeetCode / GFG outside the Apna College sheet.
+> Additional `13` problems solved on LeetCode / GFG outside the Apna College sheet.
 
 | # | Problem | Platform | Difficulty | Solution |
 | :---: | :--- | :---: | :---: | :---: |
@@ -52,11 +52,12 @@
 | 5 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.java) |
 | 6 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/35-search-insert-position/search-insert-position.java) |
 | 7 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) |
-| 8 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/4285-smallest-stable-index-ii/smallest-stable-index-ii.java) |
-| 9 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/643-maximum-average-subarray-i/maximum-average-subarray-i.java) |
-| 10 | [Plus One](https://leetcode.com/problems/plus-one/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/66-plus-one/plus-one.java) |
-| 11 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/88-merge-sorted-array/merge-sorted-array.java) |
-| 12 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/977-distinct-subsequences-ii/distinct-subsequences-ii.java) |
+| 8 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/4245-count-commas-in-range/count-commas-in-range.java) |
+| 9 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/4285-smallest-stable-index-ii/smallest-stable-index-ii.java) |
+| 10 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/643-maximum-average-subarray-i/maximum-average-subarray-i.java) |
+| 11 | [Plus One](https://leetcode.com/problems/plus-one/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/66-plus-one/plus-one.java) |
+| 12 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/88-merge-sorted-array/merge-sorted-array.java) |
+| 13 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/977-distinct-subsequences-ii/distinct-subsequences-ii.java) |
 
 </details>
 
