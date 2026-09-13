@@ -10,8 +10,8 @@
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
 | **🎯 Apna College Sheet** | `12` | `375` | `█░░░░░░░░░░░░░░░░░` **3.2%** |
-| **🌟 Outside Sheet Problems** | `19` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `31` | `-` | **All Platforms** |
+| **🌟 Outside Sheet Problems** | `20` | `-` | `██████████████████` **Tracked** |
+| **🔥 Total Solved in Repo** | `32` | `-` | **All Platforms** |
 
 ---
 
@@ -39,9 +39,9 @@
 ---
 
 <details>
-<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (19 Extra Solved)</h2></summary>
+<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (20 Extra Solved)</h2></summary>
 
-> Additional `19` problems solved on LeetCode / GFG outside the Apna College sheet.
+> Additional `20` problems solved on LeetCode / GFG outside the Apna College sheet.
 
 | # | Problem | Platform | Difficulty | Solution |
 | :---: | :--- | :---: | :---: | :---: |
@@ -62,8 +62,9 @@
 | 15 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/4285-smallest-stable-index-ii/smallest-stable-index-ii.java) |
 | 16 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/643-maximum-average-subarray-i/maximum-average-subarray-i.java) |
 | 17 | [Plus One](https://leetcode.com/problems/plus-one/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/66-plus-one/plus-one.java) |
-| 18 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/88-merge-sorted-array/merge-sorted-array.java) |
-| 19 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/977-distinct-subsequences-ii/distinct-subsequences-ii.java) |
+| 18 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/864-image-overlap/image-overlap.java) |
+| 19 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/88-merge-sorted-array/merge-sorted-array.java) |
+| 20 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/977-distinct-subsequences-ii/distinct-subsequences-ii.java) |
 
 </details>
 
