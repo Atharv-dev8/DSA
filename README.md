@@ -9,9 +9,9 @@
 
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
-| **🎯 Apna College Sheet** | `12` | `375` | `█░░░░░░░░░░░░░░░░░` **3.2%** |
+| **🎯 Apna College Sheet** | `13` | `375` | `█░░░░░░░░░░░░░░░░░` **3.5%** |
 | **🌟 Outside Sheet Problems** | `26` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `38` | `-` | **All Platforms** |
+| **🔥 Total Solved in Repo** | `39` | `-` | **All Platforms** |
 
 ---
 
@@ -20,7 +20,7 @@
 | Topic | Solved | Total | Progress | Link |
 | :--- | :---: | :---: | :--- | :---: |
 | **Arrays** | `7` | `26` | `████░░░░░░░░░░░` 26.9% | [View](#arrays) |
-| **Strings** | `4` | `22` | `███░░░░░░░░░░░░` 18.2% | [View](#strings) |
+| **Strings** | `5` | `22` | `███░░░░░░░░░░░░` 22.7% | [View](#strings) |
 | **2D Arrays** | `0` | `10` | `░░░░░░░░░░░░░░░` 0.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `0` | `23` | `░░░░░░░░░░░░░░░` 0.0% | [View](#searching-sorting) |
 | **Backtracking** | `0` | `21` | `░░░░░░░░░░░░░░░` 0.0% | [View](#backtracking) |
@@ -115,7 +115,7 @@
 </details>
 
 <details>
-<summary><h3 style="display:inline" id="strings">📂 Strings &nbsp;—&nbsp; 4/22 Solved (18.2%)</h3></summary>
+<summary><h3 style="display:inline" id="strings">📂 Strings &nbsp;—&nbsp; 5/22 Solved (22.7%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -123,7 +123,7 @@
 | ✅ | 28 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Nagarro Media.net Directi Google Adobe Flipkart | - | [LeetCode](Leetcode/242-valid-anagram/valid-anagram.java) |
 | ✅ | 29 | [Valid parentheses](https://leetcode.com/problems/valid-parentheses/) | Google Interview Qs | use Stacks (if possible) | [LeetCode](Leetcode/20-valid-parentheses/valid-parentheses.java) |
 | ⬜ | 30 | [Remove Consecutive Characters](https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1) | Samsung + Adobe | - | - |
-| ⬜ | 31 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Adobe + Grofers + Dunzo Interview Qs | - | - |
+| ✅ | 31 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Adobe + Grofers + Dunzo Interview Qs | - | [LeetCode](Leetcode/14-longest-common-prefix/longest-common-prefix.java) |
 | ⬜ | 32 | [Convert a Sentence into its Equivalent Mobile Numeric Keypad Sequence](https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/) | Adobe | - | - |
 | ⬜ | 33 | [Print all the Duplicates in the Input String](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) | Ola + Amdocs IQ | - | - |
 | ⬜ | 34 | [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Morgan Stanley + Amazon IQ | - | - |
