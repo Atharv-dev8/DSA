@@ -7,11 +7,42 @@
 
 ## 📊 Overall Progress Summary
 
-| Metric | Solved | Total | Progress |
-| :--- | :---: | :---: | :--- |
-| **🎯 Apna College Sheet** | `14` | `375` | `█░░░░░░░░░░░░░░░░░` **3.7%** |
-| **🌟 Outside Sheet Problems** | `27` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `41` | `-` | **All Platforms** |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Metric</th>
+      <th align="center">Solved</th>
+      <th align="center">Total</th>
+      <th align="left">Progress</th>
+      <th align="center">🔥 Total Problems Solved</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🎯 Apna College Sheet</b></td>
+      <td align="center"><code>14</code></td>
+      <td align="center"><code>375</code></td>
+      <td><code>█░░░░░░░░░░░░░░░░░</code> <b>3.7%</b></td>
+      <td rowspan="3" align="center" valign="middle">
+        <a href="#-topic-summary">
+          <img src=".github/assets/total_solved_41.svg" alt="Total Solved: 41 Problems" width="165" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🌟 Outside Sheet Problems</b></td>
+      <td align="center"><code>27</code></td>
+      <td align="center">-</td>
+      <td><code>██████████████████</code> <b>Tracked</b></td>
+    </tr>
+    <tr>
+      <td><b>🔥 Total Solved in Repo</b></td>
+      <td align="center"><code>41</code></td>
+      <td align="center">-</td>
+      <td><b>All Platforms</b></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 

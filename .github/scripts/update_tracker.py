@@ -73,6 +73,23 @@ def get_progress_bar(percent, width=20):
 def encode_path(p):
     return urllib.parse.quote(p, safe="/#")
 
+def generate_total_solved_svg(count, output_path):
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="180" height="100" viewBox="0 0 180 100" fill="none">
+  <rect x="0.5" y="0.5" width="179" height="99" rx="8" fill="#181717" stroke="#2ea44f" stroke-width="1.5"/>
+  <path d="M1 8C1 4.13401 4.13401 1 8 1H172C175.866 1 179 4.13401 179 8V32H1V8Z" fill="#181717"/>
+  <g transform="translate(16, 7.5) scale(0.65)">
+    <path fill="#ffffff" fill-rule="evenodd" clip-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.53 1.032 1.53 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/>
+  </g>
+  <text x="42" y="22" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">TOTAL SOLVED</text>
+  <path d="M1 32H179V92C179 95.866 175.866 99 172 99H8C4.13401 99 1 95.866 1 92V32Z" fill="#2ea44f"/>
+  <text x="90" y="68" text-anchor="middle" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="800">{count}</text>
+  <text x="90" y="87" text-anchor="middle" fill="#e6ffed" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="700" letter-spacing="2">PROBLEMS</text>
+</svg>'''
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(svg)
+
+
 def find_case_insensitive_dir(parent, candidates):
     for entry in parent.iterdir():
         if entry.is_dir() and entry.name.lower() in [c.lower() for c in candidates]:
@@ -257,6 +274,23 @@ def main():
     extra_solved = [s for s in solved_items if s["path"] not in used_solved_paths]
     total_all_solved = total_solved + len(extra_solved)
 
+    # Generate Total Solved SVG Badge (canonical + versioned for instant cache-busting)
+    assets_dir = REPO_ROOT / ".github" / "assets"
+    assets_dir.mkdir(parents=True, exist_ok=True)
+    for fname in os.listdir(assets_dir):
+        if fname.startswith("total_solved_") and fname.endswith(".svg"):
+            try:
+                os.remove(assets_dir / fname)
+            except Exception:
+                pass
+
+    canonical_svg = assets_dir / "total_solved.svg"
+    generate_total_solved_svg(total_all_solved, canonical_svg)
+
+    versioned_filename = f"total_solved_{total_all_solved}.svg"
+    versioned_svg = assets_dir / versioned_filename
+    generate_total_solved_svg(total_all_solved, versioned_svg)
+
     # Group by Topic
     topics = {}
     for q in questions:
@@ -275,11 +309,42 @@ def main():
     lines.append("")
     lines.append("## 📊 Overall Progress Summary")
     lines.append("")
-    lines.append("| Metric | Solved | Total | Progress |")
-    lines.append("| :--- | :---: | :---: | :--- |")
-    lines.append(f"| **🎯 Apna College Sheet** | `{total_solved}` | `{total_q}` | `{get_progress_bar(overall_percent, 18)}` **{overall_percent:.1f}%** |")
-    lines.append(f"| **🌟 Outside Sheet Problems** | `{len(extra_solved)}` | `-` | `{get_progress_bar(100, 18)}` **Tracked** |")
-    lines.append(f"| **🔥 Total Solved in Repo** | `{total_all_solved}` | `-` | **All Platforms** |")
+    lines.append("<table>")
+    lines.append("  <thead>")
+    lines.append("    <tr>")
+    lines.append('      <th align="left">Metric</th>')
+    lines.append('      <th align="center">Solved</th>')
+    lines.append('      <th align="center">Total</th>')
+    lines.append('      <th align="left">Progress</th>')
+    lines.append('      <th align="center">🔥 Total Problems Solved</th>')
+    lines.append("    </tr>")
+    lines.append("  </thead>")
+    lines.append("  <tbody>")
+    lines.append("    <tr>")
+    lines.append("      <td><b>🎯 Apna College Sheet</b></td>")
+    lines.append(f'      <td align="center"><code>{total_solved}</code></td>')
+    lines.append(f'      <td align="center"><code>{total_q}</code></td>')
+    lines.append(f'      <td><code>{get_progress_bar(overall_percent, 18)}</code> <b>{overall_percent:.1f}%</b></td>')
+    lines.append('      <td rowspan="3" align="center" valign="middle">')
+    lines.append('        <a href="#-topic-summary">')
+    lines.append(f'          <img src=".github/assets/{versioned_filename}" alt="Total Solved: {total_all_solved} Problems" width="165" />')
+    lines.append('        </a>')
+    lines.append('      </td>')
+    lines.append("    </tr>")
+    lines.append("    <tr>")
+    lines.append("      <td><b>🌟 Outside Sheet Problems</b></td>")
+    lines.append(f'      <td align="center"><code>{len(extra_solved)}</code></td>')
+    lines.append('      <td align="center">-</td>')
+    lines.append(f'      <td><code>{get_progress_bar(100, 18)}</code> <b>Tracked</b></td>')
+    lines.append("    </tr>")
+    lines.append("    <tr>")
+    lines.append("      <td><b>🔥 Total Solved in Repo</b></td>")
+    lines.append(f'      <td align="center"><code>{total_all_solved}</code></td>')
+    lines.append('      <td align="center">-</td>')
+    lines.append('      <td><b>All Platforms</b></td>')
+    lines.append("    </tr>")
+    lines.append("  </tbody>")
+    lines.append("</table>")
     lines.append("")
     lines.append("---")
     lines.append("")
