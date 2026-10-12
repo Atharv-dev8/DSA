@@ -20,12 +20,12 @@
   <tbody>
     <tr>
       <td><b>🎯 Apna College Sheet</b></td>
-      <td align="center"><code>14</code></td>
+      <td align="center"><code>15</code></td>
       <td align="center"><code>375</code></td>
-      <td><code>█░░░░░░░░░░░░░░░░░</code> <b>3.7%</b></td>
+      <td><code>█░░░░░░░░░░░░░░░░░</code> <b>4.0%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_60.svg" alt="Total Solved: 60 Problems" width="165" />
+          <img src=".github/assets/total_solved_61.svg" alt="Total Solved: 61 Problems" width="165" />
         </a>
       </td>
     </tr>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>60</code></td>
+      <td align="center"><code>61</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -50,7 +50,7 @@
 
 | Topic | Solved | Total | Progress | Link |
 | :--- | :---: | :---: | :--- | :---: |
-| **Arrays** | `8` | `26` | `█████░░░░░░░░░░` 30.8% | [View](#arrays) |
+| **Arrays** | `9` | `26` | `█████░░░░░░░░░░` 34.6% | [View](#arrays) |
 | **Strings** | `5` | `22` | `███░░░░░░░░░░░░` 22.7% | [View](#strings) |
 | **2D Arrays** | `0` | `10` | `░░░░░░░░░░░░░░░` 0.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `0` | `23` | `░░░░░░░░░░░░░░░` 0.0% | [View](#searching-sorting) |
@@ -130,7 +130,7 @@
 ## 📚 Apna College Sheet Questions by Topic
 
 <details>
-<summary><h3 style="display:inline" id="arrays">📂 Arrays &nbsp;—&nbsp; 8/26 Solved (30.8%)</h3></summary>
+<summary><h3 style="display:inline" id="arrays">📂 Arrays &nbsp;—&nbsp; 9/26 Solved (34.6%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -151,7 +151,7 @@
 | ⬜ | 15 | [Find Pair with Sum in Sorted & Rotated Array](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/?ref=lbp) | Microsoft + Google + Apple Interview Qs | - | - |
 | ✅ | 16 | [3Sum](https://leetcode.com/problems/3sum/) | Adobe Amazon Microsoft Morgan Stanley Samsung Snapdeal Times Internet | - | [LeetCode](Leetcode/15-3sum/3sum.java) |
 | ✅ | 17 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Flipkart + Dunzo Interview Qs | - | [LeetCode](Leetcode/11-container-with-most-water/container-with-most-water.java) |
-| ⬜ | 18 | [Given Sum Pair](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/) | Infosys + Amazon + Flipkart Interview Qs | - | - |
+| ✅ | 18 | [Given Sum Pair](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/) | Infosys + Amazon + Flipkart Interview Qs | - | [LeetCode](Leetcode/1-two-sum/two-sum.java) |
 | ⬜ | 19 | [Kth - Smallest Element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe | - | - |
 | ⬜ | 20 | [Merge Overlapping Intervals](https://www.geeksforgeeks.org/merging-intervals/) | Google Interview Qs | - | - |
 | ⬜ | 21 | [Find Minimum Number of Merge Operations to Make an Array Palindrome](https://www.geeksforgeeks.org/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/) | Amazon | - | - |
