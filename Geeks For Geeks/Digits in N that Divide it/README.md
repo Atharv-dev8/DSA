@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/count-digits-in-given-number-n-which-divide-n3331/1
-- Synced: 2026-10-26T06:33:49.278Z
+- Synced: 2026-10-26T06:46:24.362Z
 
 ## Problem Description
 
