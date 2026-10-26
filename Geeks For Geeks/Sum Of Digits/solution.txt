@@ -1,0 +1,27 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Sum Of Digits
+ * URL: https://www.geeksforgeeks.org/problems/sum-of-digits1742/1
+ * Language: Unknown
+ * Difficulty: Easy
+ * Topics: Drishti-Soft, Number Theory
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-26T05:42:08.863Z
+ */
+
+class Solution {
+    static int sumOfDigits(int n) {
+       int iDigit = 0;
+       int iSum =0;
+        while(n!=0)
+        {
+            iDigit = n%10;
+            iSum = iSum + iDigit;
+            
+            n = n/10;
+        }
+        return iSum;
+        
+    }
+}
