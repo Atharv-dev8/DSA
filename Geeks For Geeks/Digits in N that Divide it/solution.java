@@ -7,7 +7,7 @@
  * Topics: Mathematics
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-26T06:21:02.896Z
+ * Synced: 2026-10-26T06:33:49.278Z
  */
 
 class Solution {
@@ -21,7 +21,7 @@ class Solution {
         while(iNumber!=0)
         {
             iDigit=iNumber%10;
-            if((iOrignal%iDigit) ==0)
+            if((iDigit !=0)&&(iOrignal%iDigit) ==0)
             {
                 iDivide++;
             }
