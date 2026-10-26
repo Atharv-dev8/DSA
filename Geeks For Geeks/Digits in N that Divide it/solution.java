@@ -7,30 +7,31 @@
  * Topics: Mathematics
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-26T06:33:49.278Z
+ * Synced: 2026-10-26T06:46:24.362Z
  */
 
 class Solution {
     public int divisibleByDigits(String s) {
-        
-        int iDivide =0;
-        int iDigit = 0;
-        
-        int iNumber = Integer.parseInt(s);
-        int iOrignal =iNumber;
-        while(iNumber!=0)
-        {
-            iDigit=iNumber%10;
-            if((iDigit !=0)&&(iOrignal%iDigit) ==0)
-            {
+        int iDivide = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            int iDigit = s.charAt(i) - '0';
+
+            if (iDigit == 0) {
+                continue;
+            }
+
+            int remainder = 0;
+
+            for (int j = 0; j < s.length(); j++) {
+                remainder = (remainder * 10 + (s.charAt(j) - '0')) % iDigit;
+            }
+
+            if (remainder == 0) {
                 iDivide++;
             }
-            iNumber=iNumber/10;
-            
         }
+
         return iDivide;
-   
-        
-        
     }
 }
