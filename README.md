@@ -25,19 +25,19 @@
       <td><code>█░░░░░░░░░░░░░░░░░</code> <b>4.0%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_67.svg" alt="Total Solved: 67 Problems" width="165" />
+          <img src=".github/assets/total_solved_68.svg" alt="Total Solved: 68 Problems" width="165" />
         </a>
       </td>
     </tr>
     <tr>
       <td><b>🌟 Outside Sheet Problems</b></td>
-      <td align="center"><code>52</code></td>
+      <td align="center"><code>53</code></td>
       <td align="center">-</td>
       <td><code>██████████████████</code> <b>Tracked</b></td>
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>67</code></td>
+      <td align="center"><code>68</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -70,9 +70,9 @@
 ---
 
 <details>
-<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (52 Extra Solved)</h2></summary>
+<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (53 Extra Solved)</h2></summary>
 
-> Additional `52` problems solved on LeetCode / GFG outside the Apna College sheet.
+> Additional `53` problems solved on LeetCode / GFG outside the Apna College sheet.
 
 | # | Problem | Platform | Difficulty | Solution |
 | :---: | :--- | :---: | :---: | :---: |
@@ -128,6 +128,7 @@
 | 50 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/886-score-of-parentheses/score-of-parentheses.java) |
 | 51 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/9-palindrome-number/palindrome-number.java) |
 | 52 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/977-distinct-subsequences-ii/distinct-subsequences-ii.java) |
+| 53 | [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Odd%20or%20Even/solution.txt) |
 
 </details>
 
