@@ -1,0 +1,25 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Odd or Even
+ * URL: https://www.geeksforgeeks.org/problems/odd-or-even3618/1
+ * Language: Unknown
+ * Difficulty: Easy
+ * Topics: Mathematics, Bit Magic
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-26T05:26:22.790Z
+ */
+
+class Solution {
+    static boolean isEven(int n) {
+        if(n%2 == 0)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+        
+    }
+}
