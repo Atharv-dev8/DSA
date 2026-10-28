@@ -13,7 +13,7 @@ class Solution {
                 iCount++;
                 nums[i]= nums[i]/10;
             }
-            if(iCount % 2==0)
+            if((iCount % 2)==0)
             {
                 iCnt++;
             }
