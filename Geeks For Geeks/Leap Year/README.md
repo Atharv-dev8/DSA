@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/leap-year0943/1
-- Synced: 2026-10-28T18:11:48.681Z
+- Synced: 2026-10-28T18:16:31.821Z
 
 ## Problem Description
 
