@@ -7,12 +7,20 @@
  * Topics: Zoho, Date-Time
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-28T18:11:48.681Z
+ * Synced: 2026-10-28T18:16:31.821Z
  */
 
 class Solution {
     static boolean checkYear(int n) {
-        if((n % 4) == 0)
+        if((n % 400) == 0)
+        {
+            return true;
+        }
+        else if((n % 100) == 0)
+        {
+            return false;
+        }
+        else if((n % 4) == 0)
         {
             return true;
         }
