@@ -25,19 +25,19 @@
       <td><code>█░░░░░░░░░░░░░░░░░</code> <b>4.0%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_82.svg" alt="Total Solved: 82 Problems" width="165" />
+          <img src=".github/assets/total_solved_83.svg" alt="Total Solved: 83 Problems" width="165" />
         </a>
       </td>
     </tr>
     <tr>
       <td><b>🌟 Outside Sheet Problems</b></td>
-      <td align="center"><code>67</code></td>
+      <td align="center"><code>68</code></td>
       <td align="center">-</td>
       <td><code>██████████████████</code> <b>Tracked</b></td>
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>82</code></td>
+      <td align="center"><code>83</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -70,9 +70,9 @@
 ---
 
 <details>
-<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (67 Extra Solved)</h2></summary>
+<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (68 Extra Solved)</h2></summary>
 
-> Additional `67` problems solved on LeetCode / GFG outside the Apna College sheet.
+> Additional `68` problems solved on LeetCode / GFG outside the Apna College sheet.
 
 | # | Problem | Platform | Difficulty | Solution |
 | :---: | :--- | :---: | :---: | :---: |
@@ -138,11 +138,12 @@
 | 60 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/9-palindrome-number/palindrome-number.java) |
 | 61 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/977-distinct-subsequences-ii/distinct-subsequences-ii.java) |
 | 62 | [Digits in N that Divide it](https://www.geeksforgeeks.org/problems/count-digits-in-given-number-n-which-divide-n3331/1) | `GFG` | `Medium` | [GFG](Geeks%20For%20Geeks/Digits%20in%20N%20that%20Divide%20it/solution.java) |
-| 63 | [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Odd%20or%20Even/solution.txt) |
-| 64 | [Sum Of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20Of%20Digits/solution.txt) |
-| 65 | [Sum of Natural Numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20of%20Natural%20Numbers/solution.java) |
-| 66 | [Sum of Odd and Even](https://www.geeksforgeeks.org/problems/sum-of-odd-and-even-elements3033/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20of%20Odd%20and%20Even/solution.java) |
-| 67 | [Swap Two Numbers](https://www.geeksforgeeks.org/problems/swap-the-numbers/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Swap%20Two%20Numbers/solution.java) |
+| 63 | [Mean or Average of Array](https://www.geeksforgeeks.org/problems/mean0021/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Mean%20or%20Average%20of%20Array/solution.java) |
+| 64 | [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Odd%20or%20Even/solution.txt) |
+| 65 | [Sum Of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20Of%20Digits/solution.txt) |
+| 66 | [Sum of Natural Numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20of%20Natural%20Numbers/solution.java) |
+| 67 | [Sum of Odd and Even](https://www.geeksforgeeks.org/problems/sum-of-odd-and-even-elements3033/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20of%20Odd%20and%20Even/solution.java) |
+| 68 | [Swap Two Numbers](https://www.geeksforgeeks.org/problems/swap-the-numbers/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Swap%20Two%20Numbers/solution.java) |
 
 </details>
 
