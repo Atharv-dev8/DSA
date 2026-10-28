@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1
-- Synced: 2026-10-28T18:22:52.431Z
+- Synced: 2026-10-28T18:42:45.308Z
 
 ## Problem Description
 
