@@ -25,19 +25,19 @@
       <td><code>█░░░░░░░░░░░░░░░░░</code> <b>4.0%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_76.svg" alt="Total Solved: 76 Problems" width="165" />
+          <img src=".github/assets/total_solved_77.svg" alt="Total Solved: 77 Problems" width="165" />
         </a>
       </td>
     </tr>
     <tr>
       <td><b>🌟 Outside Sheet Problems</b></td>
-      <td align="center"><code>61</code></td>
+      <td align="center"><code>62</code></td>
       <td align="center">-</td>
       <td><code>██████████████████</code> <b>Tracked</b></td>
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>76</code></td>
+      <td align="center"><code>77</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -70,9 +70,9 @@
 ---
 
 <details>
-<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (61 Extra Solved)</h2></summary>
+<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (62 Extra Solved)</h2></summary>
 
-> Additional `61` problems solved on LeetCode / GFG outside the Apna College sheet.
+> Additional `62` problems solved on LeetCode / GFG outside the Apna College sheet.
 
 | # | Problem | Platform | Difficulty | Solution |
 | :---: | :--- | :---: | :---: | :---: |
@@ -121,22 +121,23 @@
 | 43 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/4245-count-commas-in-range/count-commas-in-range.java) |
 | 44 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/4248-count-commas-in-range-ii/count-commas-in-range-ii.java) |
 | 45 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/4285-smallest-stable-index-ii/smallest-stable-index-ii.java) |
-| 46 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/643-maximum-average-subarray-i/maximum-average-subarray-i.java) |
-| 47 | [Plus One](https://leetcode.com/problems/plus-one/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/66-plus-one/plus-one.java) |
-| 48 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/678-valid-parenthesis-string/valid-parenthesis-string.java) |
-| 49 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/7-reverse-integer/reverse-integer.java) |
-| 50 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/864-image-overlap/image-overlap.java) |
-| 51 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/866-rectangle-overlap/rectangle-overlap.java) |
-| 52 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/88-merge-sorted-array/merge-sorted-array.java) |
-| 53 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/886-score-of-parentheses/score-of-parentheses.java) |
-| 54 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/9-palindrome-number/palindrome-number.java) |
-| 55 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/977-distinct-subsequences-ii/distinct-subsequences-ii.java) |
-| 56 | [Digits in N that Divide it](https://www.geeksforgeeks.org/problems/count-digits-in-given-number-n-which-divide-n3331/1) | `GFG` | `Medium` | [GFG](Geeks%20For%20Geeks/Digits%20in%20N%20that%20Divide%20it/solution.java) |
-| 57 | [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Odd%20or%20Even/solution.txt) |
-| 58 | [Sum Of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20Of%20Digits/solution.txt) |
-| 59 | [Sum of Natural Numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20of%20Natural%20Numbers/solution.java) |
-| 60 | [Sum of Odd and Even](https://www.geeksforgeeks.org/problems/sum-of-odd-and-even-elements3033/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20of%20Odd%20and%20Even/solution.java) |
-| 61 | [Swap Two Numbers](https://www.geeksforgeeks.org/problems/swap-the-numbers/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Swap%20Two%20Numbers/solution.java) |
+| 46 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/507-perfect-number/perfect-number.java) |
+| 47 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/643-maximum-average-subarray-i/maximum-average-subarray-i.java) |
+| 48 | [Plus One](https://leetcode.com/problems/plus-one/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/66-plus-one/plus-one.java) |
+| 49 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/678-valid-parenthesis-string/valid-parenthesis-string.java) |
+| 50 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/7-reverse-integer/reverse-integer.java) |
+| 51 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/864-image-overlap/image-overlap.java) |
+| 52 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/866-rectangle-overlap/rectangle-overlap.java) |
+| 53 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/88-merge-sorted-array/merge-sorted-array.java) |
+| 54 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/886-score-of-parentheses/score-of-parentheses.java) |
+| 55 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/9-palindrome-number/palindrome-number.java) |
+| 56 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/977-distinct-subsequences-ii/distinct-subsequences-ii.java) |
+| 57 | [Digits in N that Divide it](https://www.geeksforgeeks.org/problems/count-digits-in-given-number-n-which-divide-n3331/1) | `GFG` | `Medium` | [GFG](Geeks%20For%20Geeks/Digits%20in%20N%20that%20Divide%20it/solution.java) |
+| 58 | [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Odd%20or%20Even/solution.txt) |
+| 59 | [Sum Of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20Of%20Digits/solution.txt) |
+| 60 | [Sum of Natural Numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20of%20Natural%20Numbers/solution.java) |
+| 61 | [Sum of Odd and Even](https://www.geeksforgeeks.org/problems/sum-of-odd-and-even-elements3033/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20of%20Odd%20and%20Even/solution.java) |
+| 62 | [Swap Two Numbers](https://www.geeksforgeeks.org/problems/swap-the-numbers/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Swap%20Two%20Numbers/solution.java) |
 
 </details>
 
