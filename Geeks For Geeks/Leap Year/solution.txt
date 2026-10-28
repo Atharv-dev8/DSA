@@ -1,0 +1,22 @@
+/*
+ * Platform: GeeksforGeeks
+ * Problem: Leap Year
+ * URL: https://www.geeksforgeeks.org/problems/leap-year0943/1
+ * Language: Unknown
+ * Difficulty: Easy
+ * Topics: Zoho, Date-Time
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-10-28T18:11:48.681Z
+ */
+
+class Solution {
+    static boolean checkYear(int n) {
+        if((n % 4) == 0)
+        {
+            return true;
+        }
+        return false;
+        
+    }
+}
