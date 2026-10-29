@@ -20,12 +20,12 @@
   <tbody>
     <tr>
       <td><b>🎯 Apna College Sheet</b></td>
-      <td align="center"><code>15</code></td>
+      <td align="center"><code>16</code></td>
       <td align="center"><code>375</code></td>
-      <td><code>█░░░░░░░░░░░░░░░░░</code> <b>4.0%</b></td>
+      <td><code>█░░░░░░░░░░░░░░░░░</code> <b>4.3%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_85.svg" alt="Total Solved: 85 Problems" width="165" />
+          <img src=".github/assets/total_solved_86.svg" alt="Total Solved: 86 Problems" width="165" />
         </a>
       </td>
     </tr>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>85</code></td>
+      <td align="center"><code>86</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -50,7 +50,7 @@
 
 | Topic | Solved | Total | Progress | Link |
 | :--- | :---: | :---: | :--- | :---: |
-| **Arrays** | `9` | `26` | `█████░░░░░░░░░░` 34.6% | [View](#arrays) |
+| **Arrays** | `10` | `26` | `██████░░░░░░░░░` 38.5% | [View](#arrays) |
 | **Strings** | `5` | `22` | `███░░░░░░░░░░░░` 22.7% | [View](#strings) |
 | **2D Arrays** | `0` | `10` | `░░░░░░░░░░░░░░░` 0.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `0` | `23` | `░░░░░░░░░░░░░░░` 0.0% | [View](#searching-sorting) |
@@ -154,7 +154,7 @@
 ## 📚 Apna College Sheet Questions by Topic
 
 <details>
-<summary><h3 style="display:inline" id="arrays">📂 Arrays &nbsp;—&nbsp; 9/26 Solved (34.6%)</h3></summary>
+<summary><h3 style="display:inline" id="arrays">📂 Arrays &nbsp;—&nbsp; 10/26 Solved (38.5%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -167,7 +167,7 @@
 | ✅ | 7 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Uber + Goldman Sachs + Adobe Interview Qs | - | [LeetCode](Leetcode/31-next-permutation/next-permutation.java) |
 | ⬜ | 8 | [Best time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Amazon D-E-Shaw Directi Flipkart Goldman Sachs Intuit MakeMyTrip Microsoft Ola Cabs Oracle Paytm Pubmatic Quikr Salesforce Sapient Swiggy Walmart Media.net Google | - | - |
 | ⬜ | 9 | [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | Amazon Interview Qs | - | - |
-| ⬜ | 10 | [Kth-Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Amazon Microsoft Walmart Adobe | - | - |
+| ✅ | 10 | [Kth-Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Amazon Microsoft Walmart Adobe | - | [LeetCode](Leetcode/215-kth-largest-element-in-an-array/kth-largest-element-in-an-array.java) |
 | ⬜ | 11 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Samsung Interview Qs | - | - |
 | ⬜ | 12 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Microsoft + Facebook Interview Qs | - | - |
 | ✅ | 13 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Amazon D-E-Shaw Microsoft Morgan Stanley OYO Rooms Google | - | [LeetCode](Leetcode/152-maximum-product-subarray) |
