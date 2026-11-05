@@ -25,19 +25,19 @@
       <td><code>█░░░░░░░░░░░░░░░░░</code> <b>4.3%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_89.svg" alt="Total Solved: 89 Problems" width="165" />
+          <img src=".github/assets/total_solved_90.svg" alt="Total Solved: 90 Problems" width="165" />
         </a>
       </td>
     </tr>
     <tr>
       <td><b>🌟 Outside Sheet Problems</b></td>
-      <td align="center"><code>73</code></td>
+      <td align="center"><code>74</code></td>
       <td align="center">-</td>
       <td><code>██████████████████</code> <b>Tracked</b></td>
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>89</code></td>
+      <td align="center"><code>90</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -70,9 +70,9 @@
 ---
 
 <details>
-<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (73 Extra Solved)</h2></summary>
+<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (74 Extra Solved)</h2></summary>
 
-> Additional `73` problems solved on LeetCode / GFG outside the Apna College sheet.
+> Additional `74` problems solved on LeetCode / GFG outside the Apna College sheet.
 
 | # | Problem | Platform | Difficulty | Solution |
 | :---: | :--- | :---: | :---: | :---: |
@@ -93,62 +93,63 @@
 | 15 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/1725-number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.java) |
 | 16 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/1737-maximum-nesting-depth-of-the-parentheses/maximum-nesting-depth-of-the-parentheses.java) |
 | 17 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/1776-minimum-operations-to-reduce-x-to-zero/minimum-operations-to-reduce-x-to-zero.java) |
-| 18 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/2083-three-divisors/three-divisors.java) |
-| 19 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/209-minimum-size-subarray-sum/minimum-size-subarray-sum.java) |
-| 20 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/2137-final-value-of-variable-after-performing-operations/final-value-of-variable-after-performing-operations.java) |
-| 21 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/22-generate-parentheses/generate-parentheses.java) |
-| 22 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/2347-count-nodes-equal-to-average-of-subtree/count-nodes-equal-to-average-of-subtree.java) |
-| 23 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/2349-check-if-there-is-a-valid-parentheses-string-path/check-if-there-is-a-valid-parentheses-string-path.java) |
-| 24 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/2383-add-two-integers/add-two-integers.java) |
-| 25 | [Add Digits](https://leetcode.com/problems/add-digits/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/258-add-digits/add-digits.java) |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java) |
-| 27 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/2608-count-the-digits-that-divide-a-number/count-the-digits-that-divide-a-number.java) |
-| 28 | [Remove Element](https://leetcode.com/problems/remove-element/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/27-remove-element/remove-element.java) |
-| 29 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/2812-find-the-maximum-achievable-number/find-the-maximum-achievable-number.java) |
-| 30 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/283-move-zeroes/move-zeroes.java) |
-| 31 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/29-divide-two-integers/divide-two-integers.java) |
-| 32 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/290-word-pattern/word-pattern.java) |
-| 33 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/32-longest-valid-parentheses/longest-valid-parentheses.java) |
-| 34 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/3321-type-of-triangle/type-of-triangle.java) |
-| 35 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.java) |
-| 36 | [Reverse String](https://leetcode.com/problems/reverse-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/344-reverse-string/reverse-string.java) |
-| 37 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/345-reverse-vowels-of-a-string/reverse-vowels-of-a-string.java) |
-| 38 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/349-intersection-of-two-arrays/intersection-of-two-arrays.java) |
-| 39 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/35-search-insert-position/search-insert-position.java) |
-| 40 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.java) |
-| 41 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/3562-maximum-score-of-non-overlapping-intervals/maximum-score-of-non-overlapping-intervals.java) |
-| 42 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/3799-unique-3-digit-even-numbers/unique-3-digit-even-numbers.java) |
-| 43 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/3811-reverse-degree-of-a-string/reverse-degree-of-a-string.java) |
-| 44 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/383-ransom-note/ransom-note.java) |
-| 45 | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/3831-find-x-value-of-array-i/find-x-value-of-array-i.java) |
-| 46 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/3840-find-x-value-of-array-ii/find-x-value-of-array-ii.java) |
-| 47 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) |
-| 48 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/412-fizz-buzz/fizz-buzz.java) |
-| 49 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/414-third-maximum-number/third-maximum-number.java) |
-| 50 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/4245-count-commas-in-range/count-commas-in-range.java) |
-| 51 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/4248-count-commas-in-range-ii/count-commas-in-range-ii.java) |
-| 52 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/4285-smallest-stable-index-ii/smallest-stable-index-ii.java) |
-| 53 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/507-perfect-number/perfect-number.java) |
-| 54 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/643-maximum-average-subarray-i/maximum-average-subarray-i.java) |
-| 55 | [Plus One](https://leetcode.com/problems/plus-one/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/66-plus-one/plus-one.java) |
-| 56 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/678-valid-parenthesis-string/valid-parenthesis-string.java) |
-| 57 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/7-reverse-integer/reverse-integer.java) |
-| 58 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/742-to-lower-case/to-lower-case.java) |
-| 59 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/864-image-overlap/image-overlap.java) |
-| 60 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/866-rectangle-overlap/rectangle-overlap.java) |
-| 61 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/88-merge-sorted-array/merge-sorted-array.java) |
-| 62 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/886-score-of-parentheses/score-of-parentheses.java) |
-| 63 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/9-palindrome-number/palindrome-number.java) |
-| 64 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/977-distinct-subsequences-ii/distinct-subsequences-ii.java) |
-| 65 | [All Divisors of Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/All%20Divisors%20of%20Number/solution.java) |
-| 66 | [Digits in N that Divide it](https://www.geeksforgeeks.org/problems/count-digits-in-given-number-n-which-divide-n3331/1) | `GFG` | `Medium` | [GFG](Geeks%20For%20Geeks/Digits%20in%20N%20that%20Divide%20it/solution.java) |
-| 67 | [Leap Year](https://www.geeksforgeeks.org/problems/leap-year0943/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Leap%20Year/solution.txt) |
-| 68 | [Mean or Average of Array](https://www.geeksforgeeks.org/problems/mean0021/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Mean%20or%20Average%20of%20Array/solution.java) |
-| 69 | [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Odd%20or%20Even/solution.txt) |
-| 70 | [Sum Of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20Of%20Digits/solution.txt) |
-| 71 | [Sum of Natural Numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20of%20Natural%20Numbers/solution.java) |
-| 72 | [Sum of Odd and Even](https://www.geeksforgeeks.org/problems/sum-of-odd-and-even-elements3033/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20of%20Odd%20and%20Even/solution.java) |
-| 73 | [Swap Two Numbers](https://www.geeksforgeeks.org/problems/swap-the-numbers/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Swap%20Two%20Numbers/solution.java) |
+| 18 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/2048-build-array-from-permutation/build-array-from-permutation.java) |
+| 19 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/2083-three-divisors/three-divisors.java) |
+| 20 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/209-minimum-size-subarray-sum/minimum-size-subarray-sum.java) |
+| 21 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/2137-final-value-of-variable-after-performing-operations/final-value-of-variable-after-performing-operations.java) |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/22-generate-parentheses/generate-parentheses.java) |
+| 23 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/2347-count-nodes-equal-to-average-of-subtree/count-nodes-equal-to-average-of-subtree.java) |
+| 24 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/2349-check-if-there-is-a-valid-parentheses-string-path/check-if-there-is-a-valid-parentheses-string-path.java) |
+| 25 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/2383-add-two-integers/add-two-integers.java) |
+| 26 | [Add Digits](https://leetcode.com/problems/add-digits/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/258-add-digits/add-digits.java) |
+| 27 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java) |
+| 28 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/2608-count-the-digits-that-divide-a-number/count-the-digits-that-divide-a-number.java) |
+| 29 | [Remove Element](https://leetcode.com/problems/remove-element/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/27-remove-element/remove-element.java) |
+| 30 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/2812-find-the-maximum-achievable-number/find-the-maximum-achievable-number.java) |
+| 31 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/283-move-zeroes/move-zeroes.java) |
+| 32 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/29-divide-two-integers/divide-two-integers.java) |
+| 33 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/290-word-pattern/word-pattern.java) |
+| 34 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/32-longest-valid-parentheses/longest-valid-parentheses.java) |
+| 35 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/3321-type-of-triangle/type-of-triangle.java) |
+| 36 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.java) |
+| 37 | [Reverse String](https://leetcode.com/problems/reverse-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/344-reverse-string/reverse-string.java) |
+| 38 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/345-reverse-vowels-of-a-string/reverse-vowels-of-a-string.java) |
+| 39 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/349-intersection-of-two-arrays/intersection-of-two-arrays.java) |
+| 40 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/35-search-insert-position/search-insert-position.java) |
+| 41 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.java) |
+| 42 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/3562-maximum-score-of-non-overlapping-intervals/maximum-score-of-non-overlapping-intervals.java) |
+| 43 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/3799-unique-3-digit-even-numbers/unique-3-digit-even-numbers.java) |
+| 44 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/3811-reverse-degree-of-a-string/reverse-degree-of-a-string.java) |
+| 45 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/383-ransom-note/ransom-note.java) |
+| 46 | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/3831-find-x-value-of-array-i/find-x-value-of-array-i.java) |
+| 47 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/3840-find-x-value-of-array-ii/find-x-value-of-array-ii.java) |
+| 48 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/387-first-unique-character-in-a-string/first-unique-character-in-a-string.java) |
+| 49 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/412-fizz-buzz/fizz-buzz.java) |
+| 50 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/414-third-maximum-number/third-maximum-number.java) |
+| 51 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/4245-count-commas-in-range/count-commas-in-range.java) |
+| 52 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/4248-count-commas-in-range-ii/count-commas-in-range-ii.java) |
+| 53 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/4285-smallest-stable-index-ii/smallest-stable-index-ii.java) |
+| 54 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/507-perfect-number/perfect-number.java) |
+| 55 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/643-maximum-average-subarray-i/maximum-average-subarray-i.java) |
+| 56 | [Plus One](https://leetcode.com/problems/plus-one/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/66-plus-one/plus-one.java) |
+| 57 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/678-valid-parenthesis-string/valid-parenthesis-string.java) |
+| 58 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/7-reverse-integer/reverse-integer.java) |
+| 59 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/742-to-lower-case/to-lower-case.java) |
+| 60 | [Image Overlap](https://leetcode.com/problems/image-overlap/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/864-image-overlap/image-overlap.java) |
+| 61 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/866-rectangle-overlap/rectangle-overlap.java) |
+| 62 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/88-merge-sorted-array/merge-sorted-array.java) |
+| 63 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/886-score-of-parentheses/score-of-parentheses.java) |
+| 64 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/9-palindrome-number/palindrome-number.java) |
+| 65 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/977-distinct-subsequences-ii/distinct-subsequences-ii.java) |
+| 66 | [All Divisors of Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/All%20Divisors%20of%20Number/solution.java) |
+| 67 | [Digits in N that Divide it](https://www.geeksforgeeks.org/problems/count-digits-in-given-number-n-which-divide-n3331/1) | `GFG` | `Medium` | [GFG](Geeks%20For%20Geeks/Digits%20in%20N%20that%20Divide%20it/solution.java) |
+| 68 | [Leap Year](https://www.geeksforgeeks.org/problems/leap-year0943/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Leap%20Year/solution.txt) |
+| 69 | [Mean or Average of Array](https://www.geeksforgeeks.org/problems/mean0021/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Mean%20or%20Average%20of%20Array/solution.java) |
+| 70 | [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Odd%20or%20Even/solution.txt) |
+| 71 | [Sum Of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20Of%20Digits/solution.txt) |
+| 72 | [Sum of Natural Numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20of%20Natural%20Numbers/solution.java) |
+| 73 | [Sum of Odd and Even](https://www.geeksforgeeks.org/problems/sum-of-odd-and-even-elements3033/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Sum%20of%20Odd%20and%20Even/solution.java) |
+| 74 | [Swap Two Numbers](https://www.geeksforgeeks.org/problems/swap-the-numbers/1) | `GFG` | `Easy` | [GFG](Geeks%20For%20Geeks/Swap%20Two%20Numbers/solution.java) |
 
 </details>
 
